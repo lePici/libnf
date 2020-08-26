@@ -31,7 +31,7 @@ letter	[A-Za-z]
 punct   [:/\.\-]
 
 
-ident [A-Za-z][A-Za-z0-9\-]*
+ident [A-Za-z][A-Za-z0-9\-_]*
 
 ws	[ \t]
 
